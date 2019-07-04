@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="@dimen/small_dialog_width"
+    android:layout_height="wrap_content">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/themed_multi_list_dialog_listView"
+        android:divider="@color/com_cloudcoding_light_list_divider"
+        android:dividerHeight="1px"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="-2dp"
+        android:layout_marginLeft="-2dp"
+        android:layout_marginRight="-2dp">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:text="Cancel"
+            android:id="@+id/themed_multi_list_dialog_cancelButton"
+            android:layout_weight="1"
+            style="@style/orange_hollow_dialog_button"
+            android:layout_marginRight="-2dp"
+            android:textSize="20sp" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:text="OK"
+            android:id="@+id/themed_multi_list_dialog_okButton"
+            android:layout_weight="1"
+            style="@style/orange_hollow_dialog_button"
+            android:textSize="20sp" />
+    </LinearLayout>
+</LinearLayout>

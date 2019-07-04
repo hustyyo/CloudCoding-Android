@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout-sw600dp-v13/three_keys_view_leftright.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout-sw600dp/three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout-sw600dp-v13/three_keys_view_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout-sw600dp/three_keys_view_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout-sw600dp-v13/three_keys_view_right_drawable.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout-sw600dp/three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout-sw600dp-v13/three_keys_view.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout-sw600dp/three_keys_view.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout-sw600dp-v13/calendar_date_picker_dialog.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout-sw600dp/calendar_date_picker_dialog.xml"
+    }
+]

@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml:3:1-8:12
+INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml:3:1-8:12
+INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml:3:1-8:12
+INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml:3:1-8:12
+INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml:3:1-8:12
+INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml:3:1-8:12
+INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml:3:1-8:12
+	package
+		ADDED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml:4:5-48
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml:6:5-32
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+		ADDED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+		ADDED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibBetterPickers/AndroidManifest.xml

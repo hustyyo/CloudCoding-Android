@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/dialog_title_background"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="yes_no_dialog_titleTextView"
+            android:id="@+id/yes_no_dialog_titleTextView"
+            android:textSize="26sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Are you sure you want to save this?"
+        android:id="@+id/yes_no_dialog_detailsTextView"
+        android:textSize="18sp"
+        android:paddingTop="20dp"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:paddingBottom="20dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="-2dp"
+        android:layout_marginRight="-2dp"
+        android:layout_marginBottom="-2dp">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:text="RESUME CALL"
+            android:id="@+id/yes_no_dialog_cancelButton"
+            android:layout_gravity="right"
+            android:layout_weight="1"
+            android:textSize="20sp"
+            android:background="@drawable/error_dialog_button_background"
+            android:textColor="#ffff7928" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:text="EXIT CALL"
+            android:id="@+id/yes_no_dialog_saveButton"
+            android:layout_weight="1"
+            android:textSize="20sp"
+            android:background="@drawable/error_dialog_button_background"
+            android:textColor="#ffff7a27"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

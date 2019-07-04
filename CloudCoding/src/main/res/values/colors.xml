@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="com_cloudcoding_colorPrimary">#273236</color>
+    <color name="com_cloudcoding_colorSecondary">#172226</color>
+
+    <color name="com_cloudcoding_white">#ffffff</color>
+    <color name="com_cloudcoding_light_white">#f0f0f0</color>
+    <color name="com_cloudcoding_clear">#00ffffff</color>
+    <color name="com_cloudcoding_orange">#ff8715</color>
+    <color name="com_cloudcoding_orange_lighter_1">#FF9C38</color>
+    <color name="com_cloudcoding_orange_more_1">#f6690d</color>
+    <color name="com_cloudcoding_orange_lighter_2">#f9cf43</color>
+
+    <color name="com_cloudcoding_transparent">#00000000</color>
+    <color name="com_cloudcoding_light_gray">#404040</color>
+    <color name="com_cloudcoding_lighter_gray">#909090</color>
+    <color name="com_cloudcoding_little_gray">#b0b0b0</color>
+    <color name="com_cloudcoding_dark_gray">#363636</color>
+    <color name="com_cloudcoding_line_dark">#808080</color>
+    <color name="com_cloudcoding_red">#ff3333</color>
+    <color name="com_cloudcoding_red_focused">#853333</color>
+    <color name="com_cloudcoding_purple">#9C27B0</color>
+    <color name="com_cloudcoding_green">#6ac824</color>
+    <color name="com_cloudcoding_blue">#0009e1</color>
+    <color name="com_cloudcoding_blue_pressed">#0030f1</color>
+    <color name="com_cloudcoding_dialog_bg">#aa222222</color>
+    <color name="com_cloudcoding_background">#ffffff</color>
+    <color name="com_cloudcoding_background_gray_transparent">#90a0a0a0</color>
+    <color name="com_cloudcoding_background_loading_gray_non_transparent">#ffdddddd</color>
+    <color name="com_cloudcoding_background_light">#f0f0f0</color>
+
+    <color name="com_cloudcoding_white_blur">#80ffffff</color>
+    <color name="com_cloudcoding_bg_grey">#f0f0f0</color>
+    <color name="com_cloudcoding_default_list_divider">#e0e0e0</color>
+    <color name="com_cloudcoding_light_list_divider">#f8f8f8</color>
+    <color name="com_cloudcoding_gray">#999999</color>
+    <color name="com_cloudcoding_edit_hint">#aaaaaa</color>
+
+    <color name="com_cloudcoding_button_accept_pressed_green">#ff2ed91c</color>
+    <color name="com_cloudcoding_button_accept_green">#27ae60</color>
+    <color name="com_cloudcoding_button_white_pressed">#e0e0e0</color>
+    <color name="com_cloudcoding_button_green_pressed">#44ab40</color>
+    <color name="com_cloudcoding_button_green">#6ac824</color>
+    <color name="com_cloudcoding_button_gray">#ececec</color>
+    <color name="com_cloudcoding_button_gray_pressed">#dddddd</color>
+    <color name="com_cloudcoding_button_gray_disabled">#e0e0e0</color>
+    <color name="com_cloudcoding_button_orange_pressed">#ffe37b3a</color>
+    <color name="com_cloudcoding_button_orange">#f59321</color>
+
+
+    <color name="com_cloudcoding_disabled_white_overlay">#AAFFFFFF</color>
+    <color name="com_cloudcoding_light_blue">#5cc3ff</color>
+    <color name="com_cloudcoding_light_blue_pressed">#33B5E5</color>
+
+    <color name="com_cloudcoding_editable_listitem">#FF636BFE</color>
+
+    <color name="com_cloudcoding_list_selected">#FFE0B2</color>
+    <color name="com_cloudcoding_list_selected_gray">#dddddd</color>
+    <color name="com_cloudcoding_list_not_selected">#00FF9C38</color>
+
+    <color name="com_cloudcoding_error_dialog_title">#ef7f27</color>
+
+    <color name="com_cloudcoding_text_color">#ffffff</color>
+    <color name="com_cloudcoding_text_black">#000000</color>
+    <color name="com_cloudcoding_text_dark">#505050</color>
+    <color name="com_cloudcoding_text_grey">#777777</color>
+    <color name="com_cloudcoding_text_light">#aaaaaa</color>
+    <color name="com_cloudcoding_text_disabled_dark">#888888</color>
+    <color name="com_cloudcoding_text_disabled">#dddddd</color>
+
+
+    //Tab
+    <color name="com_cloudcoding_tab_text_unselected">#bbbbbb</color>
+    <color name="com_cloudcoding_tab_bg_clear">#00ffffff</color>
+    <color name="com_cloudcoding_tab_selected_text">#ffffff</color>
+    <color name="com_cloudcoding_tab_selected_not_text">#eeeeee</color>
+    <color name="com_cloudcoding_tab_selected_text_gray">#bbbbbb</color>
+    <color name="com_cloudcoding_tab_not_selected_text_gray">#333333</color>
+    <color name="com_cloudcoding_tab_seg_selected_text">#ffffff</color>
+    <color name="com_cloudcoding_tab_seg_selected_not_text">#FF9C38</color>
+    <color name="com_cloudcoding_tab_seg_selected_bg">#FF9C38</color>
+    <color name="com_cloudcoding_tab_seg_selected_not_bg">#00ffffff</color>
+    <color name="com_cloudcoding_active_tab">#ffffff</color>
+
+
+</resources>

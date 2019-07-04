@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml:2:1-10:12
+	package
+		ADDED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+application
+ADDED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml:8:5-20
+uses-sdk
+INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+		ADDED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+		ADDED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml
+		INJECTED from /Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/AndroidManifest.xml

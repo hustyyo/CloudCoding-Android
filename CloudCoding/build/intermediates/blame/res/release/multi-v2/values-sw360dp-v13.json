@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/color-picker-view-1.4.0.aar/093e05e1ad298c7a173fab7cb87b0aae/res/values-sw360dp/values-sw360dp.xml",
+                    "from": {
+                        "startLines": "4,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "192,262,469",
+                        "endLines": "4,5,11",
+                        "endColumns": "69,68,12",
+                        "endOffsets": "257,326,652"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,194",
+                        "endLines": "2,3,7",
+                        "endColumns": "69,68,12",
+                        "endOffsets": "120,189,377"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/color-picker-view-1.4.0.aar/093e05e1ad298c7a173fab7cb87b0aae/res/values-sw360dp/values-sw360dp.xml",
+                    "from": {
+                        "startLines": "4,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "192,262,469",
+                        "endLines": "4,5,11",
+                        "endColumns": "69,68,12",
+                        "endOffsets": "257,326,652"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,194",
+                        "endLines": "2,3,7",
+                        "endColumns": "69,68,12",
+                        "endOffsets": "120,189,377"
+                    }
+                }
+            ]
+        }
+    ]
+}

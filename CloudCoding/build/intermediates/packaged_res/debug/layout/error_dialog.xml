@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="400dp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="error_dialog_titleTextView"
+        android:id="@+id/error_dialog_titleTextView"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:layout_margin="25dp"
+        android:textColor="@color/com_cloudcoding_error_dialog_title" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Number placed in store must be greater than 0."
+        android:id="@+id/error_dialog_errorTextView"
+        android:textSize="20sp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingRight="25dp"
+        android:paddingLeft="25dp"
+        android:textColor="#555555" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:id="@+id/error_dialog_closeTextView"
+        android:textSize="22sp"
+        android:textAllCaps="true"
+        android:layout_gravity="right"
+        android:layout_margin="5dp"
+        android:paddingLeft="25dp"
+        android:paddingTop="20dp"
+        android:paddingRight="25dp"
+        android:paddingBottom="20dp"
+        android:background="@drawable/error_dialog_button_background" />
+
+</LinearLayout>

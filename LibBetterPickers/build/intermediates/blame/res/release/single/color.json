@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/color/dialog_text_color_holo_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/color/dialog_text_color_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/color/dialog_text_color_holo_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/color/dialog_text_color_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/color/date_picker_year_selector.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/color/date_picker_year_selector.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/color/date_picker_selector.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/color/date_picker_selector.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/color/recurrence_bubble_text_color.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/color/recurrence_bubble_text_color.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/color/done_text_color.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/color/done_text_color.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/color/recurrence_spinner_text_color.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/color/recurrence_spinner_text_color.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/color/done_text_color_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/color/done_text_color_dark.xml"
+    }
+]

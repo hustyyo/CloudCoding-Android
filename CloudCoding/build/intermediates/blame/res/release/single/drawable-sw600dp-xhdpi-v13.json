@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_light.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_light.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_dark.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_dark.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_light.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_light.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_dark.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_dark.png"
+    }
+]

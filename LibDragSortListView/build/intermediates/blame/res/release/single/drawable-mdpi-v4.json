@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibDragSortListView/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibDragSortListView/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibDragSortListView/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibDragSortListView/build/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibDragSortListView/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CloudCoding.iml" filepath="$PROJECT_DIR$/CloudCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Cloudcoding.iml" filepath="$PROJECT_DIR$/../Cloudcoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LibBetterPickers/LibBetterPickers.iml" filepath="$PROJECT_DIR$/../LibBetterPickers/LibBetterPickers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LibDragSortListView/LibDragSortListView.iml" filepath="$PROJECT_DIR$/../LibDragSortListView/LibDragSortListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LibPercentProgress/LibPercentProgress.iml" filepath="$PROJECT_DIR$/../LibPercentProgress/LibPercentProgress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LibSlidingUpPaneLayout/LibSlidingUpPaneLayout.iml" filepath="$PROJECT_DIR$/../LibSlidingUpPaneLayout/LibSlidingUpPaneLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LibWheelPicker/LibWheelPicker.iml" filepath="$PROJECT_DIR$/../LibWheelPicker/LibWheelPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+    </modules>
+  </component>
+</project>

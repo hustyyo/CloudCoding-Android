@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../LibBetterPickers" />
+            <option value="$PROJECT_DIR$/../LibDragSortListView" />
+            <option value="$PROJECT_DIR$/../LibPercentProgress" />
+            <option value="$PROJECT_DIR$/../LibSlidingUpPaneLayout" />
+            <option value="$PROJECT_DIR$/../LibWheelPicker" />
+            <option value="$PROJECT_DIR$/../app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

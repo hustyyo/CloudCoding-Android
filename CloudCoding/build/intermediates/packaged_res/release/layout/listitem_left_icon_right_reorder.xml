@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    android:background="#FFFFFF"
+    android:paddingLeft="5dp"
+    >
+
+    <LinearLayout
+        android:id="@+id/left_button"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        >
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/remove_icon"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="MandM Liquor Store"
+        android:id="@+id/one_day_fragment_listitemAccount"
+        android:textSize="18sp"
+        android:layout_weight="1"
+        android:gravity="center_vertical|left"
+        android:paddingRight="20dp" />
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.15"
+        android:id="@+id/one_day_fragment_listItemDragIcon"
+        android:gravity="center"
+        android:paddingRight="10dp"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/one_day_fragment_listitemDragImageView"
+            android:src="@drawable/ic_reorder_black_24dp" />
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

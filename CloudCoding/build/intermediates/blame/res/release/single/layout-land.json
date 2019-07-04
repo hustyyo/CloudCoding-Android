@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/layout-land/calendar_date_picker_dialog_simple.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/layout-land/calendar_date_picker_dialog_simple.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/layout-land/radial_time_picker_dialog_with_sub_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/layout-land/radial_time_picker_dialog_with_sub_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/layout-land/time_picker_sub_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/layout-land/time_picker_sub_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/layout-land/radial_time_picker_dialog.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/layout-land/radial_time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/layout-land/calendar_date_picker_dialog.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/layout-land/calendar_date_picker_dialog.xml"
+    }
+]

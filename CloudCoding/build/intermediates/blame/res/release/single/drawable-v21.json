@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/129fa8811cc513cc8a9f2c477807cb20/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/129fa8811cc513cc8a9f2c477807cb20/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/129fa8811cc513cc8a9f2c477807cb20/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/129fa8811cc513cc8a9f2c477807cb20/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable-v21/notification_action_background.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/129fa8811cc513cc8a9f2c477807cb20/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/layout-sw600dp-v13/three_keys_view_leftright.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/layout-sw600dp-v13/three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/layout-sw600dp-v13/calendar_date_picker_dialog.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/layout-sw600dp-v13/calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/layout-sw600dp-v13/three_keys_view.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/layout-sw600dp-v13/three_keys_view.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/layout-sw600dp-v13/three_keys_view_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/layout-sw600dp-v13/three_keys_view_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/layout-sw600dp-v13/three_keys_view_right_drawable.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/layout-sw600dp-v13/three_keys_view_right_drawable.xml"
+    }
+]

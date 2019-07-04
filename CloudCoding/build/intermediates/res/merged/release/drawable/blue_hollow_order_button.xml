@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/blue_hollow_button_disabled"
+        android:state_enabled="false"/>
+
+    <item android:drawable="@drawable/blue_hollow_button_checked_pressed"
+        android:state_activated="true"
+        android:state_pressed="true"/>
+
+    <item android:drawable="@drawable/blue_hollow_button_checked_released"
+        android:state_activated="true"
+        android:state_pressed="false"/>
+
+    <item android:drawable="@drawable/blue_hollow_button_disabled"
+        android:state_selected="false"/>
+
+    <item android:drawable="@drawable/blue_hollow_button_pressed"
+        android:state_pressed="true" />
+
+    <item android:drawable="@drawable/blue_hollow_button_released" />
+
+</selector>

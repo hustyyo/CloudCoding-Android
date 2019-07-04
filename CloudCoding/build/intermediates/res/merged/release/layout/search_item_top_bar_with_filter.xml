@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/search_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical|right"
+    android:orientation="horizontal"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        >
+
+        <com.cloudcoding.ViewLib.TextViewFontAwesome
+            android:id="@+id/search_bar_filter_button"
+            android:layout_width="@dimen/search_bar_filter_width"
+            android:layout_height="match_parent"
+            android:text="@string/fa_angle_down"
+            android:background="@drawable/button_orange_left_oval"
+            android:textColor="@color/com_cloudcoding_white"
+            android:textSize="23sp"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            />
+
+
+        <LinearLayout
+            android:id="@+id/search_bar"
+            android:layout_width="match_parent"
+            android:paddingLeft="10dp"
+            android:paddingRight="5dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="0dp"
+            android:background="@drawable/bg_white_right_oval"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            >
+            <com.cloudcoding.ViewLib.TextViewFontAwesome
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fa_search"
+                android:textColor="@color/com_cloudcoding_little_gray"
+                android:textSize="22sp"
+                android:layout_gravity="center_vertical"
+                />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:id="@+id/search_edit"
+                android:textColor="@color/com_cloudcoding_text_black"
+                android:textColorHint="@color/com_cloudcoding_edit_hint"
+                android:background="@color/com_cloudcoding_clear"
+                android:gravity="center_vertical"
+                android:imeOptions="actionSearch"
+                android:textSize="15sp"
+                android:text=""
+                android:singleLine="true"
+                android:focusable="false"
+                android:hint="@string/com_cloudcoding_search"
+                android:ellipsize="end"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

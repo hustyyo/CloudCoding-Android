@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "3,6,2,7,14,13,10,11,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "104,183,55,230,503,447,335,390,280",
+                        "endColumns": "54,46,48,48,56,55,54,55,54",
+                        "endOffsets": "154,225,99,274,555,498,385,441,330"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,110,157,206,255,312,368,423,479",
+                        "endColumns": "54,46,48,48,56,55,54,55,54",
+                        "endOffsets": "105,152,201,250,307,363,418,474,529"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "3,6,2,7,14,13,10,11,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "104,183,55,230,503,447,335,390,280",
+                        "endColumns": "54,46,48,48,56,55,54,55,54",
+                        "endOffsets": "154,225,99,274,555,498,385,441,330"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,110,157,206,255,312,368,423,479",
+                        "endColumns": "54,46,48,48,56,55,54,55,54",
+                        "endOffsets": "105,152,201,250,307,363,418,474,529"
+                    }
+                }
+            ]
+        }
+    ]
+}

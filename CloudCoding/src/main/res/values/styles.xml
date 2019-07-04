@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="button_tab_white_middle" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_tab_white_middle</item>
+        <item name="android:textColor">@drawable/button_text_white_hollow</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="button_tab_white_right" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_tab_white_right</item>
+        <item name="android:textColor">@drawable/button_text_white_hollow</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    //Orange tab
+    <style name="orange_hollow_button_left" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_button_left</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="orange_hollow_button_middle" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_button_middle</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="orange_hollow_button_right" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_button_right</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="orange_hollow_acceptable_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_acceptable_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <!--<item userName="android:textStyle">bold</item>-->
+        <item name="android:paddingLeft">45dp</item>
+
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="blue_hollow_acceptable_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/blue_hollow_acceptable_button</item>
+        <item name="android:textColor">@drawable/hollow_blue_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="blue_hollow_order_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/blue_hollow_order_button</item>
+        <item name="android:textColor">@drawable/hollow_blue_order_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="blue_hollow_order_button_no_padding" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/blue_hollow_order_button</item>
+        <item name="android:textColor">@drawable/hollow_blue_order_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="order_button_clear" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/blue_hollow_order_button</item>
+        <item name="android:textColor">@drawable/order_button_clear_text</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="grey_filled_spinner" parent="@android:style/Widget.Spinner">
+        <item name="android:background">@drawable/light_grey_rounded_button_outlined_pressed</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:spinnerItemStyle">@style/orange_hollow_spinner_item_textappearance</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="orange_hollow_dropdown_list" parent="@android:style/Widget.Spinner">
+        <item name="android:background">@drawable/orange_hollow_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:spinnerItemStyle">@style/orange_hollow_spinner_item_textappearance</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="orange_hollow_spinner_item" parent="android:Widget.TextView.SpinnerItem">
+        <item name="android:textAppearance">@style/orange_hollow_spinner_item_textappearance</item>
+    </style>
+
+    <style name="orange_hollow_spinner_item_textappearance" parent="@android:style/Widget.TextView.SpinnerItem">
+        <item name="android:textColor">#FF0000</item>
+    </style>
+
+    <style name="dialog_title_style" parent="android:Widget.TextView">
+        <item name="android:background">@android:color/holo_orange_dark</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+
+    <style name="orange_filled_with_white_dialog_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_white_hollow_dialog_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="orange_hollow_dialog_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_dialog_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    //white tab
+    <style name="button_tab_white_left" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_tab_white_left</item>
+        <item name="android:textColor">@drawable/button_text_white_hollow</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="LargeDialogTheme" parent="Base.Theme.AppCompat.Light.Dialog.Alert">
+        <item name="windowFixedWidthMajor">90%</item>
+        <item name="windowFixedWidthMinor">90%</item>
+    </style>
+
+    <style name="LightPickerDialogTheme" parent="android:Theme.Holo.Light.Dialog">
+        <item name="android:windowMinWidthMinor">0dip</item>
+        <item name="android:windowMinWidthMajor">0dip</item>
+    </style>
+
+
+    <style name="button_grey_hollow" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/light_grey_rounded_button_outlined</item>
+        <item name="android:textColor">@drawable/hollow_grey_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="hollow_white_border" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/black_rounded_button_white_border</item>
+        <item name="android:textColor">@drawable/hollow_black_button_text</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="orange_hollow_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="button_base" parent="@android:style/Widget.Button">
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="button_orange_text_hollow" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_button</item>
+        <item name="android:textColor">@color/com_cloudcoding_orange_lighter_1</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="button_hollow_dark_text" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/grey_hollow_button</item>
+        <item name="android:textColor">@color/com_cloudcoding_text_dark</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+
+    <style name="orange_hollow_button_tab" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="orange_white_hollow_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_white_hollow_dialog_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="orange_filled_dialog_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_orange_filled</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="button_grey_oval_filled" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_grey_oval</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="button_grey_rounded_filled" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_grey_rounded</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="selectable_text_view" parent="@android:style/Widget.TextView">
+        <item name="android:background">@drawable/bottom_line_dark</item>
+        <item name="android:textColor">@color/com_cloudcoding_text_dark</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:drawableRight">@drawable/triangle_gray</item>
+        <item name="android:drawablePadding">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+
+
+    <style name="button_grey_oval_filled_grey_text" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_grey_oval</item>
+        <item name="android:textColor">@color/com_cloudcoding_text_grey</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="button_green_oval_filled" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_green_oval</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+
+    <style name="grey_filled_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/light_grey_rounded_button_outlined_reversed</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+</resources>

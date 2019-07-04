@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/keyboard_text_with_header.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/keyboard_text_with_header.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/timezonepickerview.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/timezonepickerview.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cf8fd73596284c0f492f7500a0aa99a3/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/calendar_year_label_text_view.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/calendar_year_label_text_view.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/expiration_picker_view.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/expiration_picker_view.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/time_picker_view.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/time_picker_view.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cf8fd73596284c0f492f7500a0aa99a3/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/number_picker_view.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/number_picker_view.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cf8fd73596284c0f492f7500a0aa99a3/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/recurrencepicker.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/recurrencepicker.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/calendar_date_picker_header_view.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/calendar_date_picker_header_view.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/hms_picker_view.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/hms_picker_view.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/calendar_date_picker_dialog.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/keyboard_right_drawable_with_header.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/keyboard_right_drawable_with_header.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/time_picker_dialog.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/date_picker_view.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/date_picker_view.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/keyboard_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/keyboard_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/keyboard_right_drawable.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/keyboard_right_drawable.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/three_keys_view_leftright.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/empty_time_zone_item.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/empty_time_zone_item.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/radial_time_picker_dialog_sub_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/radial_time_picker_dialog_sub_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/time_zone_filter_item.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/time_zone_filter_item.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/radial_time_picker_dialog.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/radial_time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/keyboard_with_header.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/keyboard_with_header.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/calendar_date_picker_done_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/calendar_date_picker_done_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/calendar_date_picker_selected_date.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/calendar_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/calendar_date_picker_view_animator.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/calendar_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/three_keys_view_right_drawable.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cf8fd73596284c0f492f7500a0aa99a3/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cf8fd73596284c0f492f7500a0aa99a3/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/three_keys_view.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/three_keys_view.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/recurrencepicker_end_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/recurrencepicker_end_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cf8fd73596284c0f492f7500a0aa99a3/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/date_picker_dialog.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/radial_time_header_label.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/radial_time_header_label.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/number_picker_dialog.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/number_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/expiration_picker_dialog.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/expiration_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/three_keys_view_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/three_keys_view_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/time_zone_item.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/time_zone_item.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cf8fd73596284c0f492f7500a0aa99a3/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/hms_picker_dialog.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/hms_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/keyboard.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/keyboard.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/recurrencepicker_freq_item.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/layout/recurrencepicker_freq_item.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cf8fd73596284c0f492f7500a0aa99a3/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cf8fd73596284c0f492f7500a0aa99a3/res/layout/notification_template_big_media.xml"
+    }
+]

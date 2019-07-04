@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibDragSortListView/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibDragSortListView/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibDragSortListView/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibDragSortListView/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable/notification_icon_background.xml"
+    }
+]

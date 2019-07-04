@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/done_text_color.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/color/done_text_color.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/date_picker_selector.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/color/date_picker_selector.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/recurrence_spinner_text_color.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/color/recurrence_spinner_text_color.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/design_tint_password_toggle.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/129fa8811cc513cc8a9f2c477807cb20/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/design_error.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/129fa8811cc513cc8a9f2c477807cb20/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/date_picker_year_selector.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/color/date_picker_year_selector.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/dialog_text_color_holo_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/color/dialog_text_color_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/text_color_white_grey.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/color/text_color_white_grey.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/text_color_black_white.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/color/text_color_black_white.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/dialog_text_color_holo_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/color/dialog_text_color_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/text_button_white.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/color/text_button_white.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/text_color_gray_white.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/color/text_color_gray_white.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/vpi__light_theme.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-2.4.1.aar/f7cbcecad03b1150d131523950718a5d/res/color/vpi__light_theme.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/hollow_orange_button_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/color/hollow_orange_button_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/done_text_color_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/color/done_text_color_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/text_color_light_white.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/color/text_color_light_white.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/recurrence_bubble_text_color.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/color/recurrence_bubble_text_color.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/color/vpi__dark_theme.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-2.4.1.aar/f7cbcecad03b1150d131523950718a5d/res/color/vpi__dark_theme.xml"
+    }
+]

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/base_list_height"
+    android:clickable="false"
+    android:id="@+id/themed_dialog_single_list_item_RL"
+    android:background="?android:selectableItemBackground"
+    android:paddingLeft="20dp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:gravity="center_vertical"
+        android:clickable="false"
+        android:paddingRight="20dp"
+        android:id="@+id/themed_dialog_simple_list_item_textLayout"
+        android:layout_toLeftOf="@+id/themed_dialog_single_list_item_imageView">
+
+        <View
+            android:id="@+id/color_bar"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:id="@+id/themed_dialog_single_list_item_textView"
+            android:clickable="false"
+            android:textColor="@color/primary_text_default_material_light" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/themed_dialog_single_list_item_imageView"
+        android:src="@drawable/tick_orange"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:clickable="false"
+        android:visibility="gone"
+        android:layout_marginRight="20dp" />
+
+</RelativeLayout>

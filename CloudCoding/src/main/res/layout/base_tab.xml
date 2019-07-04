@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="85dp"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:id="@+id/tab_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="7 Days"
+        android:textSize="19sp"
+        android:textColor="@color/com_cloudcoding_tab_selected_text"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textAllCaps="false"
+        android:paddingTop="5dp"
+
+        />
+
+    <View
+        android:id="@+id/tab_line"
+
+        android:background="@color/com_cloudcoding_active_tab"
+        android:layout_height="4dp"
+        android:layout_width="fill_parent"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="3dp"
+        />
+
+
+
+</FrameLayout>

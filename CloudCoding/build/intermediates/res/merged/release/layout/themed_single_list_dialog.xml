@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/small_dialog_width"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:id="@+id/top_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:paddingTop="5dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/com_cloudcoding_text_dark"
+            android:textStyle="bold"
+            android:visibility="gone"
+            />
+
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:id="@+id/themed_single_list_dialog_listView"
+            android:divider="@color/com_cloudcoding_light_list_divider"
+            android:dividerHeight="1px"
+            />
+    </LinearLayout>
+    <include layout="@layout/progress_layout" android:id="@+id/progress_layout"/>
+</FrameLayout>

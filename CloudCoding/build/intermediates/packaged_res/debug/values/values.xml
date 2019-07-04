@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="com_cloudcoding_active_tab">#ffffff</color>
+    <color name="com_cloudcoding_background">#ffffff</color>
+    <color name="com_cloudcoding_background_gray_transparent">#90a0a0a0</color>
+    <color name="com_cloudcoding_background_light">#f0f0f0</color>
+    <color name="com_cloudcoding_background_loading_gray_non_transparent">#ffdddddd</color>
+    <color name="com_cloudcoding_bg_grey">#f0f0f0</color>
+    <color name="com_cloudcoding_blue">#0009e1</color>
+    <color name="com_cloudcoding_blue_pressed">#0030f1</color>
+    <color name="com_cloudcoding_button_accept_green">#27ae60</color>
+    <color name="com_cloudcoding_button_accept_pressed_green">#ff2ed91c</color>
+    <color name="com_cloudcoding_button_gray">#ececec</color>
+    <color name="com_cloudcoding_button_gray_disabled">#e0e0e0</color>
+    <color name="com_cloudcoding_button_gray_pressed">#dddddd</color>
+    <color name="com_cloudcoding_button_green">#6ac824</color>
+    <color name="com_cloudcoding_button_green_pressed">#44ab40</color>
+    <color name="com_cloudcoding_button_orange">#f59321</color>
+    <color name="com_cloudcoding_button_orange_pressed">#ffe37b3a</color>
+    <color name="com_cloudcoding_button_white_pressed">#e0e0e0</color>
+    <color name="com_cloudcoding_clear">#00ffffff</color>
+    <color name="com_cloudcoding_colorPrimary">#273236</color>
+    <color name="com_cloudcoding_colorSecondary">#172226</color>
+    <color name="com_cloudcoding_dark_gray">#363636</color>
+    <color name="com_cloudcoding_default_list_divider">#e0e0e0</color>
+    <color name="com_cloudcoding_dialog_bg">#aa222222</color>
+    <color name="com_cloudcoding_disabled_white_overlay">#AAFFFFFF</color>
+    <color name="com_cloudcoding_edit_hint">#aaaaaa</color>
+    <color name="com_cloudcoding_editable_listitem">#FF636BFE</color>
+    <color name="com_cloudcoding_error_dialog_title">#ef7f27</color>
+    <color name="com_cloudcoding_gray">#999999</color>
+    <color name="com_cloudcoding_green">#6ac824</color>
+    <color name="com_cloudcoding_light_blue">#5cc3ff</color>
+    <color name="com_cloudcoding_light_blue_pressed">#33B5E5</color>
+    <color name="com_cloudcoding_light_gray">#404040</color>
+    <color name="com_cloudcoding_light_list_divider">#f8f8f8</color>
+    <color name="com_cloudcoding_light_white">#f0f0f0</color>
+    <color name="com_cloudcoding_lighter_gray">#909090</color>
+    <color name="com_cloudcoding_line_dark">#808080</color>
+    <color name="com_cloudcoding_list_not_selected">#00FF9C38</color>
+    <color name="com_cloudcoding_list_selected">#FFE0B2</color>
+    <color name="com_cloudcoding_list_selected_gray">#dddddd</color>
+    <color name="com_cloudcoding_little_gray">#b0b0b0</color>
+    <color name="com_cloudcoding_orange">#ff8715</color>
+    <color name="com_cloudcoding_orange_lighter_1">#FF9C38</color>
+    <color name="com_cloudcoding_orange_lighter_2">#f9cf43</color>
+    <color name="com_cloudcoding_orange_more_1">#f6690d</color>
+    <color name="com_cloudcoding_purple">#9C27B0</color>
+    <color name="com_cloudcoding_red">#ff3333</color>
+    <color name="com_cloudcoding_red_focused">#853333</color>
+    <color name="com_cloudcoding_tab_bg_clear">#00ffffff</color>
+    <color name="com_cloudcoding_tab_not_selected_text_gray">#333333</color>
+    <color name="com_cloudcoding_tab_seg_selected_bg">#FF9C38</color>
+    <color name="com_cloudcoding_tab_seg_selected_not_bg">#00ffffff</color>
+    <color name="com_cloudcoding_tab_seg_selected_not_text">#FF9C38</color>
+    <color name="com_cloudcoding_tab_seg_selected_text">#ffffff</color>
+    <color name="com_cloudcoding_tab_selected_not_text">#eeeeee</color>
+    <color name="com_cloudcoding_tab_selected_text">#ffffff</color>
+    <color name="com_cloudcoding_tab_selected_text_gray">#bbbbbb</color>
+    <color name="com_cloudcoding_tab_text_unselected">#bbbbbb</color>
+    <color name="com_cloudcoding_text_black">#000000</color>
+    <color name="com_cloudcoding_text_color">#ffffff</color>
+    <color name="com_cloudcoding_text_dark">#505050</color>
+    <color name="com_cloudcoding_text_disabled">#dddddd</color>
+    <color name="com_cloudcoding_text_disabled_dark">#888888</color>
+    <color name="com_cloudcoding_text_grey">#777777</color>
+    <color name="com_cloudcoding_text_light">#aaaaaa</color>
+    <color name="com_cloudcoding_transparent">#00000000</color>
+    <color name="com_cloudcoding_white">#ffffff</color>
+    <color name="com_cloudcoding_white_blur">#80ffffff</color>
+    <declare-styleable name="ListViewMaxHeight"><attr format="dimension" name="maxHeight"/></declare-styleable>
+    <declare-styleable name="SegmentControl"><attr format="dimension|reference" name="cornerRadius"/><attr format="color|reference" name="selectedBackgroundColors"/><attr format="color|reference" name="selectedTextColors"/><attr format="string|reference" name="texts"/><attr name="android:textSize"/><attr format="enum" name="direction">
+            <enum name="horizon" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr><attr format="dimension|reference" name="gaps"/><attr format="dimension|reference" name="horizonGap"/><attr format="dimension|reference" name="verticalGap"/><attr format="integer" name="selectedIndex"/></declare-styleable>
+    <dimen name="base_dialog_title_text_size">23.5sp</dimen>
+    <dimen name="base_list_height">56dp</dimen>
+    <dimen name="base_list_icon_height">36dp</dimen>
+    <dimen name="base_list_item_padding">15dp</dimen>
+    <dimen name="base_list_item_sub_text">15sp</dimen>
+    <dimen name="base_list_item_title_text">20sp</dimen>
+    <dimen name="big_round_button">350dp</dimen>
+    <dimen name="button_oval_corner">40dp</dimen>
+    <dimen name="default_dialog_height">500dp</dimen>
+    <dimen name="default_dialog_width">750dp</dimen>
+    <dimen name="default_list_divider_height">1px</dimen>
+    <dimen name="light_rounded_corner">2dp</dimen>
+    <dimen name="search_bar_filter_width">50dp</dimen>
+    <dimen name="small_dialog_width">660dp</dimen>
+    <dimen name="tab_height">36dp</dimen>
+    <dimen name="top_bar_button_height">24dp</dimen>
+    <dimen name="top_bar_button_left">10dp</dimen>
+    <dimen name="top_bar_button_padding">16dp</dimen>
+    <dimen name="top_bar_button_text_size">17sp</dimen>
+    <dimen name="top_bar_button_width">70dp</dimen>
+    <dimen name="top_bar_height">66dp</dimen>
+    <dimen name="top_bar_info_text_size">18sp</dimen>
+    <dimen name="top_bar_item_gap">20dp</dimen>
+    <dimen name="top_bar_menu_size">10dp</dimen>
+    <dimen name="top_bar_text_button_size">23sp</dimen>
+    <dimen name="top_bar_title_max_width">190dp</dimen>
+    <dimen name="top_bar_title_size">10dp</dimen>
+    <dimen name="top_bar_title_text_size">22sp</dimen>
+    <string name="com_cloudcoding_all">All</string>
+    <string name="com_cloudcoding_cancel">Cancel</string>
+    <string name="com_cloudcoding_duration">Duration</string>
+    <string name="com_cloudcoding_error">Error</string>
+    <string name="com_cloudcoding_hours">hours</string>
+    <string name="com_cloudcoding_loading_web_failed">Failed to load the web page.</string>
+    <string name="com_cloudcoding_min">min</string>
+    <string name="com_cloudcoding_network_error">Network Error</string>
+    <string name="com_cloudcoding_no_camera_permission">No permission to access camera !</string>
+    <string name="com_cloudcoding_no_permission">Permission not granted !</string>
+    <string name="com_cloudcoding_ok">OK</string>
+    <string name="com_cloudcoding_one_moment">One moment…</string>
+    <string name="com_cloudcoding_save">Save</string>
+    <string name="com_cloudcoding_search">Search</string>
+    <string name="com_cloudcoding_search_by">Search by</string>
+    <string name="com_cloudcoding_search_by_title">Search By</string>
+    <string name="com_cloudcoding_web_service_failed">Please check your internet connection!</string>
+    <string name="fa_adjust"></string>
+    <string name="fa_adn"></string>
+    <string name="fa_align_center"></string>
+    <string name="fa_align_justify"></string>
+    <string name="fa_align_left"></string>
+    <string name="fa_align_right"></string>
+    <string name="fa_ambulance"></string>
+    <string name="fa_anchor"></string>
+    <string name="fa_android"></string>
+    <string name="fa_angle_double_down"></string>
+    <string name="fa_angle_double_left"></string>
+    <string name="fa_angle_double_right"></string>
+    <string name="fa_angle_double_up"></string>
+    <string name="fa_angle_down"></string>
+    <string name="fa_angle_left"></string>
+    <string name="fa_angle_right"></string>
+    <string name="fa_angle_up"></string>
+    <string name="fa_apple"></string>
+    <string name="fa_archive"></string>
+    <string name="fa_arrow_circle_down"></string>
+    <string name="fa_arrow_circle_left"></string>
+    <string name="fa_arrow_circle_o_down"></string>
+    <string name="fa_arrow_circle_o_left"></string>
+    <string name="fa_arrow_circle_o_right"></string>
+    <string name="fa_arrow_circle_o_up"></string>
+    <string name="fa_arrow_circle_right"></string>
+    <string name="fa_arrow_circle_up"></string>
+    <string name="fa_arrow_down"></string>
+    <string name="fa_arrow_left"></string>
+    <string name="fa_arrow_right"></string>
+    <string name="fa_arrow_up"></string>
+    <string name="fa_arrows"></string>
+    <string name="fa_arrows_alt"></string>
+    <string name="fa_arrows_h"></string>
+    <string name="fa_arrows_v"></string>
+    <string name="fa_asterisk"></string>
+    <string name="fa_at"></string>
+    <string name="fa_backward"></string>
+    <string name="fa_ban"></string>
+    <string name="fa_bar_chart_o"></string>
+    <string name="fa_barcode"></string>
+    <string name="fa_bars"></string>
+    <string name="fa_beer"></string>
+    <string name="fa_bell"></string>
+    <string name="fa_bell_o"></string>
+    <string name="fa_bitbucket"></string>
+    <string name="fa_bitbucket_square"></string>
+    <string name="fa_bold"></string>
+    <string name="fa_bolt"></string>
+    <string name="fa_book"></string>
+    <string name="fa_bookmark"></string>
+    <string name="fa_bookmark_o"></string>
+    <string name="fa_briefcase"></string>
+    <string name="fa_btc"></string>
+    <string name="fa_bug"></string>
+    <string name="fa_building_o"></string>
+    <string name="fa_bullhorn"></string>
+    <string name="fa_bullseye"></string>
+    <string name="fa_calendar"></string>
+    <string name="fa_calendar_o"></string>
+    <string name="fa_camera"></string>
+    <string name="fa_camera_retro"></string>
+    <string name="fa_caret_down"></string>
+    <string name="fa_caret_left"></string>
+    <string name="fa_caret_right"></string>
+    <string name="fa_caret_square_o_down"></string>
+    <string name="fa_caret_square_o_left"></string>
+    <string name="fa_caret_square_o_right"></string>
+    <string name="fa_caret_square_o_up"></string>
+    <string name="fa_caret_up"></string>
+    <string name="fa_certificate"></string>
+    <string name="fa_chain_broken"></string>
+    <string name="fa_check"></string>
+    <string name="fa_check_circle"></string>
+    <string name="fa_check_circle_o"></string>
+    <string name="fa_check_square"></string>
+    <string name="fa_check_square_o"></string>
+    <string name="fa_chevron_circle_down"></string>
+    <string name="fa_chevron_circle_left"></string>
+    <string name="fa_chevron_circle_right"></string>
+    <string name="fa_chevron_circle_up"></string>
+    <string name="fa_chevron_down"></string>
+    <string name="fa_chevron_left"></string>
+    <string name="fa_chevron_right"></string>
+    <string name="fa_chevron_up"></string>
+    <string name="fa_circle"></string>
+    <string name="fa_circle_o"></string>
+    <string name="fa_clipboard"></string>
+    <string name="fa_clock_o"></string>
+    <string name="fa_clone"></string>
+    <string name="fa_cloud"></string>
+    <string name="fa_cloud_download"></string>
+    <string name="fa_cloud_upload"></string>
+    <string name="fa_code"></string>
+    <string name="fa_code_fork"></string>
+    <string name="fa_coffee"></string>
+    <string name="fa_cog"></string>
+    <string name="fa_cogs"></string>
+    <string name="fa_columns"></string>
+    <string name="fa_comment"></string>
+    <string name="fa_comment_o"></string>
+    <string name="fa_comments"></string>
+    <string name="fa_comments_o"></string>
+    <string name="fa_compass"></string>
+    <string name="fa_compress"></string>
+    <string name="fa_credit_card"></string>
+    <string name="fa_crop"></string>
+    <string name="fa_crosshairs"></string>
+    <string name="fa_css3"></string>
+    <string name="fa_cutlery"></string>
+    <string name="fa_desktop"></string>
+    <string name="fa_dot_circle_o"></string>
+    <string name="fa_download"></string>
+    <string name="fa_dribbble"></string>
+    <string name="fa_dropbox"></string>
+    <string name="fa_eject"></string>
+    <string name="fa_ellipsis_h"></string>
+    <string name="fa_ellipsis_v"></string>
+    <string name="fa_envelope"></string>
+    <string name="fa_envelope_o"></string>
+    <string name="fa_eraser"></string>
+    <string name="fa_eur"></string>
+    <string name="fa_exchange"></string>
+    <string name="fa_exclamation"></string>
+    <string name="fa_exclamation_circle"></string>
+    <string name="fa_exclamation_triangle"></string>
+    <string name="fa_expand"></string>
+    <string name="fa_external_link"></string>
+    <string name="fa_external_link_square"></string>
+    <string name="fa_eye"></string>
+    <string name="fa_eye_slash"></string>
+    <string name="fa_facebook"></string>
+    <string name="fa_facebook_square"></string>
+    <string name="fa_fast_backward"></string>
+    <string name="fa_fast_forward"></string>
+    <string name="fa_female"></string>
+    <string name="fa_fighter_jet"></string>
+    <string name="fa_file"></string>
+    <string name="fa_file_o"></string>
+    <string name="fa_file_text"></string>
+    <string name="fa_file_text_o"></string>
+    <string name="fa_files_o"></string>
+    <string name="fa_film"></string>
+    <string name="fa_filter"></string>
+    <string name="fa_fire"></string>
+    <string name="fa_fire_extinguisher"></string>
+    <string name="fa_flag"></string>
+    <string name="fa_flag_checkered"></string>
+    <string name="fa_flag_o"></string>
+    <string name="fa_flask"></string>
+    <string name="fa_flickr"></string>
+    <string name="fa_floppy_o"></string>
+    <string name="fa_folder"></string>
+    <string name="fa_folder_o"></string>
+    <string name="fa_folder_open"></string>
+    <string name="fa_folder_open_o"></string>
+    <string name="fa_font"></string>
+    <string name="fa_forward"></string>
+    <string name="fa_foursquare"></string>
+    <string name="fa_frown_o"></string>
+    <string name="fa_gamepad"></string>
+    <string name="fa_gavel"></string>
+    <string name="fa_gbp"></string>
+    <string name="fa_gift"></string>
+    <string name="fa_github"></string>
+    <string name="fa_github_alt"></string>
+    <string name="fa_github_square"></string>
+    <string name="fa_gittip"></string>
+    <string name="fa_glass"></string>
+    <string name="fa_globe"></string>
+    <string name="fa_google_plus"></string>
+    <string name="fa_google_plus_square"></string>
+    <string name="fa_h_square"></string>
+    <string name="fa_hand_o_down"></string>
+    <string name="fa_hand_o_left"></string>
+    <string name="fa_hand_o_right"></string>
+    <string name="fa_hand_o_up"></string>
+    <string name="fa_hashtag"></string>
+    <string name="fa_hdd_o"></string>
+    <string name="fa_headphones"></string>
+    <string name="fa_heart"></string>
+    <string name="fa_heart_o"></string>
+    <string name="fa_history"></string>
+    <string name="fa_home"></string>
+    <string name="fa_hospital_o"></string>
+    <string name="fa_html5"></string>
+    <string name="fa_inbox"></string>
+    <string name="fa_indent"></string>
+    <string name="fa_info"></string>
+    <string name="fa_info_circle"></string>
+    <string name="fa_inr"></string>
+    <string name="fa_instagram"></string>
+    <string name="fa_italic"></string>
+    <string name="fa_jpy"></string>
+    <string name="fa_key"></string>
+    <string name="fa_keyboard_o"></string>
+    <string name="fa_krw"></string>
+    <string name="fa_laptop"></string>
+    <string name="fa_leaf"></string>
+    <string name="fa_lemon_o"></string>
+    <string name="fa_level_down"></string>
+    <string name="fa_level_up"></string>
+    <string name="fa_lightbulb_o"></string>
+    <string name="fa_link"></string>
+    <string name="fa_linkedin"></string>
+    <string name="fa_linkedin_square"></string>
+    <string name="fa_linux"></string>
+    <string name="fa_list"></string>
+    <string name="fa_list_alt"></string>
+    <string name="fa_list_ol"></string>
+    <string name="fa_list_ul"></string>
+    <string name="fa_location_arrow"></string>
+    <string name="fa_lock"></string>
+    <string name="fa_long_arrow_down"></string>
+    <string name="fa_long_arrow_left"></string>
+    <string name="fa_long_arrow_right"></string>
+    <string name="fa_long_arrow_up"></string>
+    <string name="fa_magic"></string>
+    <string name="fa_magnet"></string>
+    <string name="fa_mail_reply_all"></string>
+    <string name="fa_male"></string>
+    <string name="fa_map_marker"></string>
+    <string name="fa_maxcdn"></string>
+    <string name="fa_medkit"></string>
+    <string name="fa_meh_o"></string>
+    <string name="fa_microphone"></string>
+    <string name="fa_microphone_slash"></string>
+    <string name="fa_minus"></string>
+    <string name="fa_minus_circle"></string>
+    <string name="fa_minus_square"></string>
+    <string name="fa_minus_square_o"></string>
+    <string name="fa_mobile"></string>
+    <string name="fa_money"></string>
+    <string name="fa_moon_o"></string>
+    <string name="fa_music"></string>
+    <string name="fa_outdent"></string>
+    <string name="fa_pagelines"></string>
+    <string name="fa_paperclip"></string>
+    <string name="fa_pause"></string>
+    <string name="fa_pencil"></string>
+    <string name="fa_pencil_square"></string>
+    <string name="fa_pencil_square_o"></string>
+    <string name="fa_phone"></string>
+    <string name="fa_phone_square"></string>
+    <string name="fa_picture_o"></string>
+    <string name="fa_pinterest"></string>
+    <string name="fa_pinterest_square"></string>
+    <string name="fa_plane"></string>
+    <string name="fa_play"></string>
+    <string name="fa_play_circle"></string>
+    <string name="fa_play_circle_o"></string>
+    <string name="fa_plus"></string>
+    <string name="fa_plus_circle"></string>
+    <string name="fa_plus_square"></string>
+    <string name="fa_plus_square_o"></string>
+    <string name="fa_power_off"></string>
+    <string name="fa_print"></string>
+    <string name="fa_puzzle_piece"></string>
+    <string name="fa_qrcode"></string>
+    <string name="fa_question"></string>
+    <string name="fa_question_circle"></string>
+    <string name="fa_quote_left"></string>
+    <string name="fa_quote_right"></string>
+    <string name="fa_random"></string>
+    <string name="fa_refresh"></string>
+    <string name="fa_renren"></string>
+    <string name="fa_repeat"></string>
+    <string name="fa_reply"></string>
+    <string name="fa_reply_all"></string>
+    <string name="fa_retweet"></string>
+    <string name="fa_road"></string>
+    <string name="fa_rocket"></string>
+    <string name="fa_rss"></string>
+    <string name="fa_rss_square"></string>
+    <string name="fa_rub"></string>
+    <string name="fa_scissors"></string>
+    <string name="fa_search"></string>
+    <string name="fa_search_minus"></string>
+    <string name="fa_search_plus"></string>
+    <string name="fa_share"></string>
+    <string name="fa_share_alt"></string>
+    <string name="fa_share_square"></string>
+    <string name="fa_share_square_o"></string>
+    <string name="fa_shield"></string>
+    <string name="fa_shopping_cart"></string>
+    <string name="fa_sign_in"></string>
+    <string name="fa_sign_out"></string>
+    <string name="fa_signal"></string>
+    <string name="fa_sitemap"></string>
+    <string name="fa_skype"></string>
+    <string name="fa_smile_o"></string>
+    <string name="fa_sort"></string>
+    <string name="fa_sort_alpha_asc"></string>
+    <string name="fa_sort_alpha_desc"></string>
+    <string name="fa_sort_amount_asc"></string>
+    <string name="fa_sort_amount_desc"></string>
+    <string name="fa_sort_asc"></string>
+    <string name="fa_sort_desc"></string>
+    <string name="fa_sort_numeric_asc"></string>
+    <string name="fa_sort_numeric_desc"></string>
+    <string name="fa_spinner"></string>
+    <string name="fa_square"></string>
+    <string name="fa_square_o"></string>
+    <string name="fa_stack_exchange"></string>
+    <string name="fa_stack_overflow"></string>
+    <string name="fa_star"></string>
+    <string name="fa_star_half"></string>
+    <string name="fa_star_half_o"></string>
+    <string name="fa_star_o"></string>
+    <string name="fa_step_backward"></string>
+    <string name="fa_step_forward"></string>
+    <string name="fa_stethoscope"></string>
+    <string name="fa_stop"></string>
+    <string name="fa_strikethrough"></string>
+    <string name="fa_subscript"></string>
+    <string name="fa_suitcase"></string>
+    <string name="fa_sun_o"></string>
+    <string name="fa_superscript"></string>
+    <string name="fa_table"></string>
+    <string name="fa_tablet"></string>
+    <string name="fa_tachometer"></string>
+    <string name="fa_tag"></string>
+    <string name="fa_tags"></string>
+    <string name="fa_tasks"></string>
+    <string name="fa_terminal"></string>
+    <string name="fa_text_height"></string>
+    <string name="fa_text_width"></string>
+    <string name="fa_th"></string>
+    <string name="fa_th_large"></string>
+    <string name="fa_th_list"></string>
+    <string name="fa_thumb_tack"></string>
+    <string name="fa_thumbs_down"></string>
+    <string name="fa_thumbs_o_down"></string>
+    <string name="fa_thumbs_o_up"></string>
+    <string name="fa_thumbs_up"></string>
+    <string name="fa_ticket"></string>
+    <string name="fa_times"></string>
+    <string name="fa_times_circle"></string>
+    <string name="fa_times_circle_o"></string>
+    <string name="fa_tint"></string>
+    <string name="fa_trash_o"></string>
+    <string name="fa_trello"></string>
+    <string name="fa_trophy"></string>
+    <string name="fa_truck"></string>
+    <string name="fa_try"></string>
+    <string name="fa_tumblr"></string>
+    <string name="fa_tumblr_square"></string>
+    <string name="fa_twitter"></string>
+    <string name="fa_twitter_square"></string>
+    <string name="fa_umbrella"></string>
+    <string name="fa_underline"></string>
+    <string name="fa_undo"></string>
+    <string name="fa_unlock"></string>
+    <string name="fa_unlock_alt"></string>
+    <string name="fa_upload"></string>
+    <string name="fa_usd"></string>
+    <string name="fa_user"></string>
+    <string name="fa_user_md"></string>
+    <string name="fa_users"></string>
+    <string name="fa_video_camera"></string>
+    <string name="fa_vimeo_square"></string>
+    <string name="fa_vk"></string>
+    <string name="fa_volume_down"></string>
+    <string name="fa_volume_off"></string>
+    <string name="fa_volume_up"></string>
+    <string name="fa_weibo"></string>
+    <string name="fa_wheelchair"></string>
+    <string name="fa_windows"></string>
+    <string name="fa_wrench"></string>
+    <string name="fa_xing"></string>
+    <string name="fa_xing_square"></string>
+    <string name="fa_youtube"></string>
+    <string name="fa_youtube_play"></string>
+    <string name="fa_youtube_square"></string>
+    <style name="LargeDialogTheme" parent="Base.Theme.AppCompat.Light.Dialog.Alert">
+        <item name="windowFixedWidthMajor">90%</item>
+        <item name="windowFixedWidthMinor">90%</item>
+    </style>
+    <style name="LightPickerDialogTheme" parent="android:Theme.Holo.Light.Dialog">
+        <item name="android:windowMinWidthMinor">0dip</item>
+        <item name="android:windowMinWidthMajor">0dip</item>
+    </style>
+    <style name="blue_hollow_acceptable_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/blue_hollow_acceptable_button</item>
+        <item name="android:textColor">@drawable/hollow_blue_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="blue_hollow_order_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/blue_hollow_order_button</item>
+        <item name="android:textColor">@drawable/hollow_blue_order_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="blue_hollow_order_button_no_padding" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/blue_hollow_order_button</item>
+        <item name="android:textColor">@drawable/hollow_blue_order_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="button_base" parent="@android:style/Widget.Button">
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="button_green_oval_filled" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_green_oval</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="button_grey_hollow" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/light_grey_rounded_button_outlined</item>
+        <item name="android:textColor">@drawable/hollow_grey_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="button_grey_oval_filled" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_grey_oval</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="button_grey_oval_filled_grey_text" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_grey_oval</item>
+        <item name="android:textColor">@color/com_cloudcoding_text_grey</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="button_grey_rounded_filled" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_grey_rounded</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="button_hollow_dark_text" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/grey_hollow_button</item>
+        <item name="android:textColor">@color/com_cloudcoding_text_dark</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="button_orange_text_hollow" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_button</item>
+        <item name="android:textColor">@color/com_cloudcoding_orange_lighter_1</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="button_tab_white_left" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_tab_white_left</item>
+        <item name="android:textColor">@drawable/button_text_white_hollow</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="button_tab_white_middle" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_tab_white_middle</item>
+        <item name="android:textColor">@drawable/button_text_white_hollow</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="button_tab_white_right" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_tab_white_right</item>
+        <item name="android:textColor">@drawable/button_text_white_hollow</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="dialog_title_style" parent="android:Widget.TextView">
+        <item name="android:background">@android:color/holo_orange_dark</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    <style name="grey_filled_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/light_grey_rounded_button_outlined_reversed</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="grey_filled_spinner" parent="@android:style/Widget.Spinner">
+        <item name="android:background">@drawable/light_grey_rounded_button_outlined_pressed</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:spinnerItemStyle">@style/orange_hollow_spinner_item_textappearance</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="hollow_white_border" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/black_rounded_button_white_border</item>
+        <item name="android:textColor">@drawable/hollow_black_button_text</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="orange_filled_dialog_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_orange_filled</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="orange_filled_with_white_dialog_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_white_hollow_dialog_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="orange_hollow_acceptable_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_acceptable_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <!--<item userName="android:textStyle">bold</item>-->
+        <item name="android:paddingLeft">45dp</item>
+
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="orange_hollow_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="orange_hollow_button_left" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_button_left</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="orange_hollow_button_middle" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_button_middle</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="orange_hollow_button_right" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_button_right</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="orange_hollow_button_tab" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="orange_hollow_dialog_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_hollow_dialog_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="orange_hollow_dropdown_list" parent="@android:style/Widget.Spinner">
+        <item name="android:background">@drawable/orange_hollow_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:spinnerItemStyle">@style/orange_hollow_spinner_item_textappearance</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="orange_hollow_spinner_item" parent="android:Widget.TextView.SpinnerItem">
+        <item name="android:textAppearance">@style/orange_hollow_spinner_item_textappearance</item>
+    </style>
+    <style name="orange_hollow_spinner_item_textappearance" parent="@android:style/Widget.TextView.SpinnerItem">
+        <item name="android:textColor">#FF0000</item>
+    </style>
+    <style name="orange_white_hollow_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/orange_white_hollow_dialog_button</item>
+        <item name="android:textColor">@color/hollow_orange_button_text</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="order_button_clear" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/blue_hollow_order_button</item>
+        <item name="android:textColor">@drawable/order_button_clear_text</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="selectable_text_view" parent="@android:style/Widget.TextView">
+        <item name="android:background">@drawable/bottom_line_dark</item>
+        <item name="android:textColor">@color/com_cloudcoding_text_dark</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:drawableRight">@drawable/triangle_gray</item>
+        <item name="android:drawablePadding">10dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+</resources>

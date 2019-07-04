@@ -1,0 +1,19 @@
+<resources>
+    <string name="com_cloudcoding_save">Save</string>
+    <string name="com_cloudcoding_ok">OK</string>
+    <string name="com_cloudcoding_cancel">Cancel</string>
+    <string name="com_cloudcoding_search">Search</string>
+    <string name="com_cloudcoding_error">Error</string>
+    <string name="com_cloudcoding_all">All</string>
+    <string name="com_cloudcoding_network_error">Network Error</string>
+    <string name="com_cloudcoding_web_service_failed">Please check your internet connection!</string>
+    <string name="com_cloudcoding_duration">Duration</string>
+    <string name="com_cloudcoding_hours">hours</string>
+    <string name="com_cloudcoding_min">min</string>
+    <string name="com_cloudcoding_loading_web_failed">Failed to load the web page.</string>
+    <string name="com_cloudcoding_search_by_title">Search By</string>
+    <string name="com_cloudcoding_search_by">Search by</string>
+    <string name="com_cloudcoding_no_camera_permission">No permission to access camera !</string>
+    <string name="com_cloudcoding_no_permission">Permission not granted !</string>
+    <string name="com_cloudcoding_one_moment">One moment…</string>
+</resources>

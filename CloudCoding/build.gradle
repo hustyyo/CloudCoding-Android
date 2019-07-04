@@ -1,0 +1,60 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion project.ext.myCompileSdkVersion
+    buildToolsVersion project.ext.myBuildToolsVersion
+
+
+    buildTypes {
+        defaultConfig {
+            minSdkVersion project.ext.myMinSdkVersion
+            targetSdkVersion project.ext.myTargetSdkVersion
+            versionCode 1
+            versionName "1.0"
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    //Static Libraries
+    //    implementation(name:'LibCircleImageView-release', ext:'aar')
+    //    implementation(name:'LibSlidingUpPaneLayout-release', ext:'aar')
+    //    implementation(name:'LibPercentProgress-release', ext:'aar')
+    //    implementation(name:'LibColorPicker-release', ext:'aar')
+    //    implementation(name:'LibDragSortListView-release', ext:'aar')
+    //    implementation(name:'LibWheelPicker-release', ext:'aar')
+    //    implementation(name:'LibBetterPickers-release', ext:'aar')
+    //    implementation(name:'LibViewPagerIndicator-release', ext:'aar')
+    //    implementation 'com.doomonafireball.betterpickers:library:1.6.0'
+    //No use
+    implementation project(':LibBetterPickers')
+    implementation project(':LibDragSortListView')
+    implementation project(':LibWheelPicker')
+    implementation project(':LibPercentProgress')
+    //    implementation project(':LibCircleImageView')
+    implementation 'de.hdodenhof:circleimageview:2.0.0'
+
+    implementation project(':LibSlidingUpPaneLayout')
+//    implementation 'com.sothree.slidinguppanel:library:3.4.0'
+
+    //    implementation project(':LibViewPagerIndicator')
+    implementation 'com.github.JakeWharton:ViewPagerIndicator:2.4.1'
+
+    //    implementation project(':LibColorPicker')
+    implementation 'com.github.danielnilsson9:color-picker-view:1.4.0@aar'
+    implementation group: 'joda-time', name: 'joda-time', version: '2.9.9'
+    implementation group: 'com.github.frankiesardo', name: 'icepick', version: '2.3.6'
+
+
+    //Online libraries
+    implementation 'com.google.code.gson:gson:2.8.2'
+    implementation 'com.android.volley:volley:1.0.0'
+    //Android Libraries
+    implementation 'com.android.support:support-v4:27.1.1'
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+}

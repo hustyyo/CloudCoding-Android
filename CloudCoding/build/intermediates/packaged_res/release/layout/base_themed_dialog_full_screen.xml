@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/base_themed_dialog_baseLinearLayout"
+    android:background="@color/com_cloudcoding_white"
+    >
+
+    <FrameLayout
+        android:id="@+id/base_themed_dialog_titleView"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/dialog_title_background"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="New Text"
+            android:id="@+id/base_themed_dialog_titleTextView"
+            android:textSize="26sp"
+            android:textStyle="normal"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:singleLine="true"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text=""
+            android:id="@+id/base_themed_dialog_left_text_view"
+            android:textSize="22sp"
+            android:textStyle="normal"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:layout_gravity="left|center_vertical"
+            android:singleLine="true"
+            android:paddingLeft="10dp"
+            android:paddingRight="15dp"
+            android:background="@drawable/button_top_bar"
+            android:visibility="gone"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text=""
+            android:id="@+id/base_themed_dialog_right_text_view"
+            android:textSize="22sp"
+            android:textStyle="normal"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:layout_gravity="right|center_vertical"
+            android:singleLine="true"
+            android:paddingLeft="10dp"
+            android:paddingRight="15dp"
+            android:background="@drawable/button_top_bar"
+            android:visibility="gone"
+            />
+
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/base_themed_dialog_mainRelativeLayout">
+
+    </RelativeLayout>
+
+</LinearLayout>

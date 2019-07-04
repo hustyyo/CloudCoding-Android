@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/ic_backspace_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/ic_backspace_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/button_background_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/button_background_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/item_background_holo_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/ic_check_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/ic_check_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/done_background_color.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/done_background_color.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/done_background_color_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/done_background_color_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/key_background_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/key_background_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/list_selector_background_transition_holo_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/key_background_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/key_background_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/spinner_background_holo_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/spinner_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/ic_backspace_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/ic_backspace_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/ic_check_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/ic_check_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/switch_track_holo_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/switch_track_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/recurrence_bubble_fill.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/recurrence_bubble_fill.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/button_background_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/button_background_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/edit_text_holo_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/edit_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable/switch_thumb.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable/switch_thumb.xml"
+    }
+]

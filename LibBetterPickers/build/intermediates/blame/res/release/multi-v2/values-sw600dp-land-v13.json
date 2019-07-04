@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/values-sw600dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "6,7,3,10,9,11,13,14,8,4,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "238,285,78,429,383,475,525,582,334,135,191",
+                        "endColumns": "46,48,56,45,45,48,56,55,48,55,46",
+                        "endOffsets": "280,329,130,470,424,519,577,633,378,186,233"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,151,208,254,300,349,406,462,511,567",
+                        "endColumns": "46,48,56,45,45,48,56,55,48,55,46",
+                        "endOffsets": "97,146,203,249,295,344,401,457,506,562,609"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/values-sw600dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "6,7,3,10,9,11,13,14,8,4,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "238,285,78,429,383,475,525,582,334,135,191",
+                        "endColumns": "46,48,56,45,45,48,56,55,48,55,46",
+                        "endOffsets": "280,329,130,470,424,519,577,633,378,186,233"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,151,208,254,300,349,406,462,511,567",
+                        "endColumns": "46,48,56,45,45,48,56,55,48,55,46",
+                        "endOffsets": "97,146,203,249,295,344,401,457,506,562,609"
+                    }
+                }
+            ]
+        }
+    ]
+}

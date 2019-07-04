@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<public type="attr" name="progress" id="0x01010000" />-->
+    <!--<public type="attr" name="progress_color" id="0x01010001" />-->
+    <!--<public type="attr" name="background_color" id="0x01010001"/>-->
+    <!--<public type="attr" name="stroke_width" id="0x01010003" />-->
+    <!--<public type="attr" name="background_stroke_width" id="0x01010004" />-->
+    <!--<public type="attr" name="text_color" id="0x01010005" />-->
+    <!--<public type="attr" name="text_size" id="0x01010006" />-->
+
+
+    <public type="attr" name="progress" />
+    <public type="attr" name="progress_color"/>
+    <public type="attr" name="background_color"/>
+    <public type="attr" name="stroke_width"/>
+    <public type="attr" name="background_stroke_width"/>
+    <public type="attr" name="text_color"/>
+    <public type="attr" name="text_size"/>
+    <!--<public type="styleable" name="Progress"/>-->
+
+
+
+</resources>

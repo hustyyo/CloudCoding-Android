@@ -1,0 +1,19 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion project.ext.myCompileSdkVersion
+    buildToolsVersion project.ext.myBuildToolsVersion
+
+    buildTypes {
+        defaultConfig {
+            minSdkVersion project.ext.myMinSdkVersion
+            targetSdkVersion project.ext.myTargetSdkVersion
+        }
+    }
+
+}
+
+dependencies {
+    provided 'com.android.support:support-annotations:27.1.1'
+}
+

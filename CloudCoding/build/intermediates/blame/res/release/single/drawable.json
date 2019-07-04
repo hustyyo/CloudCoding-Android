@@ -1,0 +1,1098 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_pressed_middle.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_pressed_middle.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/vpi__tab_indicator.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-2.4.1.aar/f7cbcecad03b1150d131523950718a5d/res/drawable/vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_background_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/button_background_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/green_rounded_button_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/green_rounded_button_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_grey_rounded.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_grey_rounded.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_pressed_left.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_pressed_left.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/black_expand_arrow.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/black_expand_arrow.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_thicker_hollow_button_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_thicker_hollow_button_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/order_button_selected_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/order_button_selected_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_rect_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_rect_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/edit_round_frame.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/edit_round_frame.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/blue_hollow_button_disabled.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/blue_hollow_button_disabled.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_gray_bottom_line.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_gray_bottom_line.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_white_border.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_white_border.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/j_wheel_timebtn.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibWheelPicker/build/intermediates/packaged_res/release/drawable/j_wheel_timebtn.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_gray_content_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_gray_content_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/ic_backspace_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/ic_backspace_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/order_button_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/order_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/order_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/order_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_hollow_button_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_hollow_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bg_white_right_oval.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bg_white_right_oval.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/error_dialog_button_background_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/error_dialog_button_background_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bg_frame_gray_fill_white_round.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bg_frame_gray_fill_white_round.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_rounded_inside_selectable.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_rounded_inside_selectable.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_orange_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_orange_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_acceptable_button_selected_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_acceptable_button_selected_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/light_grey_rounded_button_outlined.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/light_grey_rounded_button_outlined.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_disabled.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_disabled.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/ic_check_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/ic_check_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/blue_hollow_acceptable_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/blue_hollow_acceptable_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_outlined_textbox_rect.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_outlined_textbox_rect.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/selectable_round_checkbox.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/selectable_round_checkbox.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_blue_round.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_blue_round.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/order_fragment_tab_button_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/order_fragment_tab_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_spinner_background.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_spinner_background.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/blue_hollow_button_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/blue_hollow_button_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/light_grey_rounded_button_outlined_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/light_grey_rounded_button_outlined_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/selectable_listitem_background.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/selectable_listitem_background.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_red_oval.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_red_oval.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_rect_button_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_rect_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/selectable_background_example.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/selectable_background_example.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_tab_white_released_middle.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_tab_white_released_middle.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/blue_hollow_acceptable_button_selected_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/blue_hollow_acceptable_button_selected_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_blue_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_blue_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/blue_hollow_order_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/blue_hollow_order_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/blue_hollow_button_checked_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/blue_hollow_button_checked_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/item_background_holo_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_tab_white_pressed_middle.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_tab_white_pressed_middle.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_white_border_round_hollow.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_white_border_round_hollow.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_green.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_green.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/add_bonus_src.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/add_bonus_src.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_frame_white.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_frame_white.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/edit_round_frame_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/edit_round_frame_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_pressed_right.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_pressed_right.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_green_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_green_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_blue_disabled.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_blue_disabled.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_white_press_grey.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_white_press_grey.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_blue_released_round.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_blue_released_round.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_top_bar.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_top_bar.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/light_grey_rounded_button_outlined_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/light_grey_rounded_button_outlined_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/129fa8811cc513cc8a9f2c477807cb20/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_selected_pressed_right.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_selected_pressed_right.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/dialog_title_background.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/dialog_title_background.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_white_border_round_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_white_border_round_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_rounded_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_rounded_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/spinner_drop_down_button_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/spinner_drop_down_button_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/light_grey_rounded_button_outlined_pressed_surrounder.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/light_grey_rounded_button_outlined_pressed_surrounder.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_top_bar_gray.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_top_bar_gray.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_tab_white_pressed_right.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_tab_white_pressed_right.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/tooltip_frame_light.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_released_right.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_released_right.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/hollow_blue_order_button_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/hollow_blue_order_button_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_white_clear.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_white_clear.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/order_button_disabled.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/order_button_disabled.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bg_grey_round.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bg_grey_round.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/light_grey_rounded_button_outlined_reversed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/light_grey_rounded_button_outlined_reversed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_middle.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_middle.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/green_rounded_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/green_rounded_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_orange_filled_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_orange_filled_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_white_hollow_dialog_button_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_white_hollow_dialog_button_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/ic_backspace_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/ic_backspace_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/recurrence_bubble_fill.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/recurrence_bubble_fill.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/remove_icon.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/remove_icon.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/yellow_rectangle_outline.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/yellow_rectangle_outline.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_rounded_button_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_rounded_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_dialog_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_dialog_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_rounded_rect.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_rounded_rect.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bg_select_oval.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bg_select_oval.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/blue_hollow_acceptable_button_selected_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/blue_hollow_acceptable_button_selected_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/order_button_clear_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/order_button_clear_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/white_rounded_button_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/white_rounded_button_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_light_blue.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_light_blue.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/above_shadow.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/build/intermediates/packaged_res/release/drawable/above_shadow.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/129fa8811cc513cc8a9f2c477807cb20/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_blue_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_blue_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/order_button_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/order_button_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_tab_white_selected_pressed_middle.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_tab_white_selected_pressed_middle.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_released_middle.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_released_middle.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_white_border_round.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_white_border_round.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/order_fragment_tab_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/order_fragment_tab_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_outlined_rounded.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_outlined_rounded.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_gray_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_gray_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/black_triangle.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/black_triangle.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/rect_lightred_black_border.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/rect_lightred_black_border.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/navigation_empty_icon.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/129fa8811cc513cc8a9f2c477807cb20/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/dialog_title_background_line.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/dialog_title_background_line.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_orange_filled.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_orange_filled.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_rounded_semitransparent.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_rounded_semitransparent.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bg_dialog_content.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bg_dialog_content.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_background_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/button_background_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_tick_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_tick_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_dialog_button_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_dialog_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_gray.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_gray.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bg_frame_white.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bg_frame_white.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/spinner_drop_down_button_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/spinner_drop_down_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_orange_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_orange_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_selected_not_round.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_selected_not_round.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/hollow_black_button_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/hollow_black_button_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_disabled_left.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_disabled_left.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_tab_white_released_right.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_tab_white_released_right.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_tab_white_selected_pressed_right.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_tab_white_selected_pressed_right.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/selectable_listitem_background_selected.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/selectable_listitem_background_selected.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/error_dialog_button_background.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/error_dialog_button_background.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_left.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_left.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/light_grey_rounded_button_outlined_selected_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/light_grey_rounded_button_outlined_selected_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_rect_button_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_rect_button_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_frame_round_white.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_frame_round_white.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_outlined_textbox_rect_white.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_outlined_textbox_rect_white.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/design_password_eye.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/129fa8811cc513cc8a9f2c477807cb20/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_blue.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_blue.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_white_border_round_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_white_border_round_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_acceptable_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_acceptable_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_grey_oval.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_grey_oval.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_hollow_border_white_fill.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_hollow_border_white_fill.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_saleshistory_triangle.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_saleshistory_triangle.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_selected_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_selected_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/white_background.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/white_background.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_acceptable_button_selected_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_acceptable_button_selected_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/error_dialog_button_background_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/error_dialog_button_background_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_round.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_round.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_red.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_red.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/switch_track_holo_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/switch_track_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/spinner_background_holo_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/spinner_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/order_button_disabled_selected.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/order_button_disabled_selected.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/hollow_blue_button_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/hollow_blue_button_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_gray_content_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_gray_content_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_red_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_red_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_released_left.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_released_left.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bg_frame_orange.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bg_frame_orange.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/ic_check_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/ic_check_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_spinner_background_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_spinner_background_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_acceptable_clear_button_selected_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_acceptable_clear_button_selected_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_tab_white_middle.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_tab_white_middle.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/129fa8811cc513cc8a9f2c477807cb20/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_blue_pressed_round.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_blue_pressed_round.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/order_button_selected_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/order_button_selected_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bg_white_oval.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bg_white_oval.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_triangle_pointing_down.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_triangle_pointing_down.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/green_rounded_button_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/green_rounded_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_selected_pressed_middle.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_selected_pressed_middle.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/edit_text_holo_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/edit_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/oval_orange.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/oval_orange.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_hollow_button_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_hollow_button_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/hollow_grey_button_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/hollow_grey_button_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/custom_orange_progressbar.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/custom_orange_progressbar.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bg_frame_for_top_bar.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bg_frame_for_top_bar.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/colorpickerview__btn_background.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/color-picker-view-1.4.0.aar/093e05e1ad298c7a173fab7cb87b0aae/res/drawable/colorpickerview__btn_background.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/key_background_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/key_background_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bg_frame_white_round.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bg_frame_white_round.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/blue_hollow_button_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/blue_hollow_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_spinner_background_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_spinner_background_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/selectable_listitem_background_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/selectable_listitem_background_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_hollow_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_hollow_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_login.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_login.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_login_disabled.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_login_disabled.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_orange_left_oval.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_orange_left_oval.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/white_background_rounded.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/white_background_rounded.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bottom_line_white.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bottom_line_white.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_white_hollow_selected_fill_orange_oval.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_white_hollow_selected_fill_orange_oval.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/white_rounded_rect_3dp.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/white_rounded_rect_3dp.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_rounded_button_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_rounded_button_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/below_shadow.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibSlidingUpPaneLayout/build/intermediates/packaged_res/release/drawable/below_shadow.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/key_background_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/key_background_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bottom_line.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bottom_line.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/spinner_drop_down_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/spinner_drop_down_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_orange.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_orange.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_rounded_inside_selectable_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_rounded_inside_selectable_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_tab_white_left.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_tab_white_left.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/switch_thumb.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/black_transparent_rect.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/black_transparent_rect.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/selectable_listitem_background_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/selectable_listitem_background_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_outlined_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_outlined_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_login_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_login_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/order_button_text.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/order_button_text.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/grey_rounded_inside_selectable_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/grey_rounded_inside_selectable_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_right.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_right.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_text_white_hollow.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_text_white_hollow.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/order_fragment_tab_button_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/order_fragment_tab_button_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/done_background_color_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/done_background_color_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_red_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_red_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/blue_hollow_button_checked_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/blue_hollow_button_checked_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_acceptable_clear_button_selected_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_acceptable_clear_button_selected_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_orange_filled_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_orange_filled_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bottom_line_dark.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bottom_line_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_light_blue_oval.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_light_blue_oval.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bottom_line_blue.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bottom_line_blue.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/white_more_rounded_rect.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/white_more_rounded_rect.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_gray_disabled.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_gray_disabled.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/selectable_single_list_bg.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/selectable_single_list_bg.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_orange_oval.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_orange_oval.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bg_dialog_head.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bg_dialog_head.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_gray_content.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_gray_content.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_acceptable_clear_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_acceptable_clear_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_login_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_login_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_tab_white_right.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_tab_white_right.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/white_rounded_rect.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/white_rounded_rect.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/colorpickerview__btn_background_pressed.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/color-picker-view-1.4.0.aar/093e05e1ad298c7a173fab7cb87b0aae/res/drawable/colorpickerview__btn_background_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_white_hollow_dialog_button.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_white_hollow_dialog_button.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/yellow_triangle.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/yellow_triangle.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_dialog_button_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_dialog_button_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/hollow_blue_order_button_gravity.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/hollow_blue_order_button_gravity.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a6dd6874330320a51a433abacb133d10/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bottom_line_gray_content.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bottom_line_gray_content.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_selected_round.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_selected_round.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/order_fragment_tab_button_selected.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/order_fragment_tab_button_selected.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/light_grey_rounded_button_outlined_selected_pressed.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/light_grey_rounded_button_outlined_selected_pressed.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/orange_hollow_button_selected_pressed_left.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/orange_hollow_button_selected_pressed_left.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_green_oval.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_green_oval.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/bg_select_blue.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/bg_select_blue.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_green_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_green_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/button_gray_released.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/CloudCoding/src/main/res/drawable/button_gray_released.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/list_selector_background_transition_holo_light.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/drawable/done_background_color.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/drawable/done_background_color.xml"
+    }
+]

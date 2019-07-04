@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.cloudcoding.ViewLib.ClearableButton
+    style="@style/orange_filled_dialog_button"/>

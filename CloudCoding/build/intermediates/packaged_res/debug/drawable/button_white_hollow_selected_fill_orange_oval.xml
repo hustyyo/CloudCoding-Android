@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true">
+        <shape>
+            <corners android:radius="@dimen/button_oval_corner"/>
+            <solid android:color="@color/com_cloudcoding_gray" />
+            <stroke android:color="@color/com_cloudcoding_white" android:width="1dp"/>
+        </shape>
+    </item>
+
+    <item android:state_selected="true">
+        <shape>
+            <corners android:radius="@dimen/button_oval_corner"/>
+            <solid android:color="@color/com_cloudcoding_orange" />
+            <stroke android:color="@color/com_cloudcoding_white" android:width="1dp"/>
+        </shape>
+    </item>
+
+
+    <item >
+        <shape>
+            <corners android:radius="@dimen/button_oval_corner"/>
+            <solid android:color="@color/com_cloudcoding_clear" />
+            <stroke android:color="@color/com_cloudcoding_white" android:width="1dp"/>
+        </shape>
+    </item>
+
+</selector>

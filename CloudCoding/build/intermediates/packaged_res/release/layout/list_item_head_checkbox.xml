@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="66dp"
+    android:clickable="false"
+    android:id="@+id/themed_dialog_single_list_item_RL"
+    android:background="?android:selectableItemBackground"
+    android:paddingLeft="20dp"
+    android:orientation="horizontal"
+    >
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/themed_dialog_single_list_item_imageView"
+        android:src="@drawable/orange_tick_button"
+        android:clickable="false"
+        android:layout_marginRight="20dp"
+        android:layout_gravity="top"
+        android:layout_marginTop="8dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:paddingRight="10dp"
+        >
+        <TextView
+            android:paddingTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:id="@+id/text"
+            android:textSize="@dimen/base_list_item_title_text"
+            android:focusable="false"
+            android:textColor="#000000"
+            android:textIsSelectable="false"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            />
+        <TextView
+            android:paddingTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:id="@+id/sub"
+            android:textSize="@dimen/base_list_item_sub_text"
+            android:focusable="false"
+            android:textColor="#444444"
+            android:textIsSelectable="false"
+            android:layout_gravity="center_vertical"
+            />
+        <EditText
+            android:paddingTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:id="@+id/sub_edit"
+            android:textSize="@dimen/base_list_item_sub_text"
+            android:focusable="false"
+            android:textColor="#444444"
+            android:textIsSelectable="false"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/bottom_line"
+            android:visibility="gone"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

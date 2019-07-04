@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibViewPagerIndicator/build/intermediates/res/merged/release/color/vpi__light_theme.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibViewPagerIndicator/src/main/res/color/vpi__light_theme.xml"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibViewPagerIndicator/build/intermediates/res/merged/release/color/vpi__dark_theme.xml",
+        "source": "/Users/steveyang/code/Cloudcoding/LibViewPagerIndicator/src/main/res/color/vpi__dark_theme.xml"
+    }
+]

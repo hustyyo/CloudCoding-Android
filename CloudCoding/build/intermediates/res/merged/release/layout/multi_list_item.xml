@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/base_list_height"
+    android:clickable="true"
+    android:id="@+id/themed_dialog_multi_list_item_RL"
+    android:background="?android:selectableItemBackground">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/themed_dialog_multi_list_item_textLayout"
+        android:gravity="center_vertical"
+        android:clickable="false"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/themed_dialog_multi_list_item_textView"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:textSize="18sp"
+            android:layout_marginLeft="20dp"
+            android:clickable="false" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/themed_multi_list_dialog_checkBox"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/orange_tick_button"
+        android:layout_marginRight="20dp"
+        android:layout_centerVertical="true" />
+
+</RelativeLayout>
+

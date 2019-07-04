@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="16dp"
+    android:layout_height="16dp"
+    android:src="@drawable/triangle_gray"
+    android:layout_gravity="center_vertical|right"
+    android:visibility="visible"
+    android:layout_marginRight="10dp"
+    >
+
+</ImageView>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_enabled="false"
+        android:state_selected="true"
+        android:color="#FFFFFF"/>
+
+    <!--Disabled-->
+    <item android:state_enabled="false"
+        android:color="#AAAAAA"/>
+
+    <!--Selected but not pressed-->
+    <item android:state_selected="true"
+        android:state_pressed="false"
+        android:color="#FFFFFF" />
+
+    <!--Selected and pressed-->
+    <item android:state_selected="true"
+        android:state_pressed="true"
+        android:color="#FFFFFF" />
+
+    <!--Not Selected but pressed-->
+    <item android:state_selected="false"
+        android:state_pressed="true"
+        android:color="#333333" />
+
+    <!--Not Selected and not pressed-->
+    <item android:state_selected="false"
+        android:state_pressed="false"
+        android:color="#333333" />
+
+    <item android:color="#333333" />
+
+</selector>

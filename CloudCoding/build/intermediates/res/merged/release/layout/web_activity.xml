@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_content_for_album"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <include layout="@layout/top_bar_activity" android:id="@+id/top_bar"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <WebView
+            android:id="@+id/web_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+        </WebView>
+
+        <com.natasa.progresspercent.LineProgress
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/line_progress_bar"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            app:background_stroke_width="2dp"
+            app:progress="0"
+            app:background_color="#e0e0e0"
+            app:progress_color="#ff0000ff"
+            app:stroke_width="2dp" />
+
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ca/values-ca.xml",
+            "map": [
+                {
+                    "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/values-ca/strings.xml",
+                    "from": {
+                        "startLines": "19,20,21,4,7,5,8,17,15,18,16,2,3,6,9,13,14,11,12,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "950,1003,1058,155,285,197,343,842,732,893,788,55,107,241,404,626,679,515,569,465",
+                        "endColumns": "52,54,54,41,57,43,60,50,55,56,53,51,47,43,60,52,52,53,56,49",
+                        "endOffsets": "998,1053,1108,192,338,236,399,888,783,945,837,102,150,280,460,674,727,564,621,510"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,163,218,260,318,362,423,474,530,587,641,693,741,785,947,1000,1053,1107,1164",
+                        "endColumns": "52,54,54,41,57,43,60,50,55,56,53,51,47,43,60,52,52,53,56,49",
+                        "endOffsets": "103,158,213,255,313,357,418,469,525,582,636,688,736,780,841,995,1048,1102,1159,1209"
+                    }
+                },
+                {
+                    "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "846",
+                        "endColumns": "100",
+                        "endOffsets": "942"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/values-ca/values-ca.xml",
+            "map": [
+                {
+                    "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/values-ca/strings.xml",
+                    "from": {
+                        "startLines": "19,20,21,4,7,5,8,17,15,18,16,2,3,6,9,13,14,11,12,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "950,1003,1058,155,285,197,343,842,732,893,788,55,107,241,404,626,679,515,569,465",
+                        "endColumns": "52,54,54,41,57,43,60,50,55,56,53,51,47,43,60,52,52,53,56,49",
+                        "endOffsets": "998,1053,1108,192,338,236,399,888,783,945,837,102,150,280,460,674,727,564,621,510"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,163,218,260,318,362,423,474,530,587,641,693,741,785,947,1000,1053,1107,1164",
+                        "endColumns": "52,54,54,41,57,43,60,50,55,56,53,51,47,43,60,52,52,53,56,49",
+                        "endOffsets": "103,158,213,255,313,357,418,469,525,582,636,688,736,780,841,995,1048,1102,1159,1209"
+                    }
+                },
+                {
+                    "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "846",
+                        "endColumns": "100",
+                        "endOffsets": "942"
+                    }
+                }
+            ]
+        }
+    ]
+}

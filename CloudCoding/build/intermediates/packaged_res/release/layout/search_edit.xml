@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/search_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:layout_marginLeft="50dp"
+    android:layout_marginRight="20dp"
+    >
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:background="@drawable/edit_round_frame"
+
+        >
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_gravity="center_vertical"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_action_search_dark"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="30dp"
+            android:background="#00ffffff"
+            android:id="@+id/search_edit"
+            android:textColor="#333333"
+            android:layout_gravity="center_vertical"
+            android:imeOptions="actionSearch"
+            android:textSize="16sp"
+            android:text=""
+            android:singleLine="true"
+            android:focusable="false"
+            />
+
+    </FrameLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:text="Cancel"
+        android:id="@+id/clear_search"
+        style="@style/orange_hollow_button"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="3dp"
+        android:layout_gravity="center_vertical"
+        android:visibility="gone"
+        />
+</LinearLayout>
+
+

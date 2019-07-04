@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_clear_search_holo_light.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/ic_clear_search_holo_light.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_default_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/textfield_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_backspace_disabled_dark.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/ic_backspace_disabled_dark.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_backspace_normal_dark.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/ic_backspace_normal_dark.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/dialog_full_holo_dark.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/dialog_full_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_backspace_normal_light.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/ic_backspace_normal_light.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/dialog_full_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/dialog_full_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_recurrence_bubble_outline.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/ic_recurrence_bubble_outline.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_disabled_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/textfield_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_focused_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/textfield_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_default_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/spinner_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_focused_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/spinner_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/switch_bg_focused_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/switch_bg_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_disabled_focused_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_recurrence_bubble_fill.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/ic_recurrence_bubble_fill.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/switch_bg_disabled_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/switch_bg_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_disabled_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/spinner_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_recurrence_bubble_disabled.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/ic_recurrence_bubble_disabled.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/switch_thumb_activated_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/switch_thumb_activated_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/switch_thumb_holo_light_v2.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/switch_thumb_holo_light_v2.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_search_holo_light.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/ic_search_holo_light.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/switch_thumb_disabled_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/switch_thumb_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_recurrence_bubble_outline_disabled.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/ic_recurrence_bubble_outline_disabled.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_backspace_disabled_light.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/ic_backspace_disabled_light.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_activated_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/textfield_activated_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_pressed_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/spinner_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/steveyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75a2cc1304b93d4149c29fedb88e63ec/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/switch_thumb_pressed_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/switch_thumb_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/res/merged/release/drawable-mdpi-v4/switch_bg_holo_light.9.png",
+        "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/res/drawable-mdpi/switch_bg_holo_light.9.png"
+    }
+]

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="@dimen/small_dialog_width"
+    android:layout_height="wrap_content"
+    android:background="@color/com_cloudcoding_background"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="@dimen/small_dialog_width"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/dialog_title_background"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="notes_dialog_titleTextView"
+            android:layout_gravity="center"
+            android:id="@+id/notes_dialog_titleTextView"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textSize="26sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp" />
+    </LinearLayout>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:id="@+id/notes_dialog_editText"
+        android:layout_gravity="center_horizontal"
+        android:gravity="left|center_vertical"
+        android:hint=""
+        android:background="#00ffffff"
+        android:padding="10dp"
+        android:minLines="1" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="-2dp"
+        android:layout_marginRight="-2dp"
+        android:layout_marginBottom="-2dp">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:text="Cancel"
+            android:id="@+id/notes_dialog_cancelButton"
+            android:layout_gravity="right"
+            android:layout_weight="1"
+            style="@style/orange_hollow_dialog_button"
+            android:textSize="20sp" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:text="Save"
+            android:id="@+id/notes_dialog_saveButton"
+            android:layout_weight="1"
+            style="@style/orange_hollow_dialog_button"
+            android:textSize="20sp"
+            android:layout_marginLeft="-2dp" />
+    </LinearLayout>
+
+</LinearLayout>

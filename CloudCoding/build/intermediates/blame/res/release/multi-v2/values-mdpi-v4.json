@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mdpi-v4/values-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/values-mdpi-v4/values-mdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,172,232,297,360,407,457,514,562,623,681,738,794,858,912,968,1023,1072",
+                        "endColumns": "59,56,59,64,62,46,49,56,47,60,57,56,55,63,53,55,54,48,51",
+                        "endOffsets": "110,167,227,292,355,402,452,509,557,618,676,733,789,853,907,963,1018,1067,1119"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/steveyang/code/Cloudcoding/CloudCoding/build/intermediates/res/merged/release/values-mdpi-v4/values-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/steveyang/code/Cloudcoding/LibBetterPickers/build/intermediates/packaged_res/release/values-mdpi-v4/values-mdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,172,232,297,360,407,457,514,562,623,681,738,794,858,912,968,1023,1072",
+                        "endColumns": "59,56,59,64,62,46,49,56,47,60,57,56,55,63,53,55,54,48,51",
+                        "endOffsets": "110,167,227,292,355,402,452,509,557,618,676,733,789,853,907,963,1018,1067,1119"
+                    }
+                }
+            ]
+        }
+    ]
+}

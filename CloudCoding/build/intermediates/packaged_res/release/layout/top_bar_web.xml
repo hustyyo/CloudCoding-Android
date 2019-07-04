@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/top_bar_height"
+    android:id="@+id/new_diary_entry_dialog_listitem_background"
+    android:orientation="horizontal"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:background="@color/com_cloudcoding_colorPrimary"
+    >
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        />
+    <com.cloudcoding.ViewLib.TextViewFontAwesome
+        android:id="@+id/nav_back"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:text="@string/fa_chevron_left"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textColor="@color/text_button_white"
+        android:layout_marginRight="10dp"
+        />
+
+    <com.cloudcoding.ViewLib.TextViewFontAwesome
+        android:id="@+id/nav_forward"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:text="@string/fa_chevron_right"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textColor="@color/text_button_white"
+        android:layout_marginRight="10dp"
+        />
+
+    <com.cloudcoding.ViewLib.TextViewFontAwesome
+        android:id="@+id/nav_refresh"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:text="@string/fa_refresh"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textColor="@color/text_button_white"
+        />
+
+
+</LinearLayout>

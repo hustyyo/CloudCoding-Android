@@ -1,0 +1,53 @@
+apply plugin: 'com.android.library'
+
+buildscript {
+  repositories {
+    mavenCentral()
+  }
+}
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+    implementation 'com.android.support:support-v4:27.1.1'
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.nineoldandroids:library:2.4.0'
+}
+
+android {
+  compileSdkVersion project.ext.myCompileSdkVersion
+  buildToolsVersion project.ext.myBuildToolsVersion
+  lintOptions {
+    abortOnError false
+  }
+
+  buildTypes {
+    defaultConfig {
+      minSdkVersion project.ext.myMinSdkVersion
+      targetSdkVersion project.ext.myTargetSdkVersion
+      versionCode 1
+      versionName "1.0"
+    }
+    release {
+      minifyEnabled false
+      proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+    }
+  }
+
+
+
+  sourceSets {
+    main {
+      manifest.srcFile 'AndroidManifest.xml'
+      java.srcDirs = ['src']
+      resources.srcDirs = ['src']
+      res.srcDirs = ['res']
+      assets.srcDirs = ['assets']
+    }
+  }
+
+}
+
+//apply from: '../maven_push.gradle'

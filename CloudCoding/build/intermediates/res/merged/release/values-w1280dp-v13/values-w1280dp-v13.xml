@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="base_dialog_title_text_size">23.5sp</dimen>
+    <dimen name="base_list_height">56dp</dimen>
+    <dimen name="base_list_icon_height">36dp</dimen>
+    <dimen name="base_list_item_padding">15dp</dimen>
+    <dimen name="base_list_item_sub_text">15sp</dimen>
+    <dimen name="base_list_item_title_text">20sp</dimen>
+    <dimen name="big_round_button">350dp</dimen>
+    <dimen name="button_oval_corner">40dp</dimen>
+    <dimen name="default_dialog_height">500dp</dimen>
+    <dimen name="default_dialog_width">750dp</dimen>
+    <dimen name="default_list_divider_height">1px</dimen>
+    <dimen name="light_rounded_corner">2dp</dimen>
+    <dimen name="search_bar_filter_width">50dp</dimen>
+    <dimen name="small_dialog_width">660dp</dimen>
+    <dimen name="tab_height">36dp</dimen>
+    <dimen name="top_bar_button_height">24dp</dimen>
+    <dimen name="top_bar_button_left">10dp</dimen>
+    <dimen name="top_bar_button_padding">16dp</dimen>
+    <dimen name="top_bar_button_text_size">17sp</dimen>
+    <dimen name="top_bar_button_width">70dp</dimen>
+    <dimen name="top_bar_height">66dp</dimen>
+    <dimen name="top_bar_info_text_size">18sp</dimen>
+    <dimen name="top_bar_item_gap">20dp</dimen>
+    <dimen name="top_bar_menu_size">10dp</dimen>
+    <dimen name="top_bar_text_button_size">23sp</dimen>
+    <dimen name="top_bar_title_max_width">190dp</dimen>
+    <dimen name="top_bar_title_size">10dp</dimen>
+    <dimen name="top_bar_title_text_size">22sp</dimen>
+</resources>

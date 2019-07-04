@@ -1,0 +1,24 @@
+apply plugin: 'com.android.library'
+//apply plugin: 'com.jfrog.bintray'
+
+android {
+    compileSdkVersion project.ext.myCompileSdkVersion
+    buildToolsVersion project.ext.myBuildToolsVersion
+
+    resourcePrefix "colorpickerview__"
+
+    buildTypes {
+        defaultConfig {
+            minSdkVersion project.ext.myMinSdkVersion
+            targetSdkVersion project.ext.myTargetSdkVersion
+            versionCode 4
+            versionName "1.4.0"
+        }
+    }
+
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+}
